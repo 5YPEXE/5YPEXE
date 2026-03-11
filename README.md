@@ -15,7 +15,7 @@ I have a background in **Statistics and Computer Science** and I enjoy building 
 **Android Studio · TensorFlow · Keras · Git · GitHub**
 
 ## Projects
-- **Can Asistan** — Accessibility-focused Android voice assistant for visually impaired and low-vision users
+- **Can Asistan** - Accessibility-focused Android voice assistant for visually impaired and low-vision users
 - **Skin Cancer Detector** - CNN-based classification project
 - **Discord Bots** - Utility and automation bots
 - **Game/System Tools** - Tracking, calculation and support tools
