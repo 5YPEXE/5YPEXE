@@ -12,7 +12,7 @@ I have a background in **Statistics and Computer Science** and I enjoy building 
 
 ## Tech
 **Kotlin · Python · C# · C++ · SQL · HTML · CSS**  
-**Android Studio · TensorFlow · Keras · Git · GitHub**
+**Android Studio · TensorFlow · Keras · Git**
 
 ## Projects
 - **Can Asistan** - Accessibility-focused Android voice assistant for visually impaired and low-vision users
