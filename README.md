@@ -1,4 +1,4 @@
-# Umut / 5YPEXE 👋
+# Umutcan B.👋
 
 Developer focused on **Android, AI, automation and data-driven solutions**.
 
