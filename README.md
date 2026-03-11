@@ -1,16 +1,26 @@
-## Hi there 👋
+# Umut / 5YPEXE 👋
 
-<!--
-**5YPEXE/5YPEXE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer focused on **Android, AI, automation and data-driven solutions**.
 
-Here are some ideas to get you started:
+I have a background in **Statistics and Computer Science** and I enjoy building practical projects that combine **software, analytics and machine learning**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Do
+- Build Android apps with **Kotlin**
+- Develop AI and automation tools
+- Work on analytics, data-driven systems and practical software projects
+- Explore machine learning applications, especially computer vision and classification tasks
+
+## Tech
+**Kotlin · Python · C# · C++ · SQL · HTML · CSS**  
+**Android Studio · TensorFlow · Keras · Git · GitHub**
+
+## Projects
+- **Can-Asistan** - Voice-controlled Android assistant
+- **Skin Cancer Detector** - CNN-based classification project
+- **Discord Bots** - Utility and automation bots
+- **Game/System Tools** - Tracking, calculation and support tools
+
+## Background
+- **B.Sc. in Statistics and Computer Science**
+- **Management Information Systems** student
+- Interested in combining **software development + AI + analytics**
